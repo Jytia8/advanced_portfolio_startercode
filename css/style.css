@@ -3,7 +3,10 @@
 
 /* Header CSS */
 
-
+.header{
+    
+    margin:70px;
+}
 
 /* Section CSS */
 
@@ -15,6 +18,15 @@
 
 /* Portfolio Item CSS */
 
+.container-fluid {
+    background-color: #b76e79;
+}
+
+ul {
+    color: blue;
+}
+
+}
 .col-xs-1 {
     background-color:OrangeRed;
     border: solid;
